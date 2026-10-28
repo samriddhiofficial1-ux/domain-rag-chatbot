@@ -1,0 +1,4 @@
+question,expected_behavior,actual_result,pass_fail
+"What is the main topic?","Answer from PDF","",""
+"Explain a concept in the PDF","Answer with sources","",""
+"Ask about something not in the PDF","Return fallback","",""
